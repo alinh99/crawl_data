@@ -1,0 +1,6301 @@
+word
+swap file
+run out
+thrashing
+compaction
+free space
+logical partition
+paging
+paging technique
+memory bound
+CPU-bound
+limit
+virtual ram
+full
+building block
+classification threshold
+training step
+negative class
+positive class
+binary category
+independent variable
+univariate linear regression
+prototype
+I/O bound
+I/O intensive
+amount
+memory management scheme
+free memory
+available memory
+return address
+code density
+threaded code
+widget toolkit
+panel
+multiple-document interface
+penalizing
+penalization
+hyperparameter tuning
+trial and error
+model tuning
+early stopping
+generalize
+lambda
+regularization rate
+generalization curve
+L1 regularization
+L2 regularization
+modal window
+pop-up notification
+listen
+web resource
+software component
+pre-installed software
+program state
+stateful
+image
+restore disc
+factory reset
+graphical control element
+computational complexity
+model complexity
+structural risk minimization
+regularization
+tainted
+man page
+kernel panic
+init
+hack
+guru
+distribution
+sysadmin
+stderr
+background program
+remote
+similarity measure
+unsupervised anomaly detection
+supervised anomaly detection
+start up
+dynamic loading
+factory preset
+control program
+program control
+persistent storage
+dynamic linker
+accessor method
+mutator method
+SQL alias
+bulk loading
+bulk loader
+extraction
+email prefix
+email footer
+email signature
+project
+projects structure
+pure
+"Abort, Retry, Fail?"
+machine error
+destination host unreachable
+feneral protection fault
+hardware conflict
+write-protection
+read right
+write error
+user error
+read error
+intermittent error
+time-out
+fatal error
+system error
+soft error
+fatal exception
+collective anomaly
+contextual anomaly
+point anomaly
+no correlation
+negative correlation
+positive correlation
+dummy variable trap
+multicollinearity
+category
+dummy variable
+anomaly detection
+one hot encoding
+one-hot vector
+domain knowledge
+OVV
+out-of-vocabulary
+n-gram
+subword
+subword tokenization
+character tokenization
+directory structure
+boilerplate code
+binary transfer
+ASCII transfer
+cross assembler
+target computer
+conflicting dependencies
+circular dependency
+diamond dependency
+point-in-time consistency
+application consistency
+transaction consistency
+data consistency
+typo
+sanitize
+clean input
+sanitization
+HTML sanitization
+staging server
+development server
+server hog
+unbalanced parenthesis
+top-down parsing
+root
+bottom-up parsing
+noise word
+opening brace
+syntax analyser
+data parsing
+external device
+portability
+expand
+lexical analyzer
+lexical phase error
+power down
+idle time
+user time
+idle user
+idle process
+idle
+set difference operation
+intersection operation
+union operation
+compatible relation
+arity
+full outer join
+right outer join
+left outer join
+outer join
+natural join
+equi join
+theta join
+inner join
+join operation
+alias
+call by name
+function composition
+actual parameter
+parameter passing
+polymorphic method
+parse error
+critical error
+hard error
+Help menu
+attach
+responsive
+lock up
+lock
+audio track
+data transmission
+intelligent database
+remote drive
+local drive
+local resource
+remote resource
+infected file
+time bomb
+logic bomb
+error code
+modifier key
+command button
+calculation error
+mechanical computer
+mechanical drive
+holographic storage
+resource intensive
+intensive
+long term memory
+short term memory
+hardware encryption
+unscramble
+scramble
+software encryption
+semiconductor memory
+indicator
+build into
+offline storage
+highlight
+non-volatile
+volatility
+datum
+word tokenization
+character-based vocabulary
+vocabulary
+text corpus
+ordinal encoding
+ordinal variable
+nominal variable
+ordinal categorical variable
+nominal categorical variable
+feature cross
+synthetic feature
+feature space
+linear problem
+click-through rate
+feature column
+pipeline
+objective
+feature set
+neuron
+NaN trap
+binary feature
+model selection
+model evaluation
+loss function
+supervised learning
+ready suspended state
+waiting state
+waiting suspended state
+running state
+ready state
+new state
+dispatch latency
+lead time
+arrival time
+exit time
+burst time
+load average
+waiting time
+turnaround time
+CPU scheduler
+resource hog
+memory hog
+consume
+physical server
+virtual server
+live server
+staging environment
+live environment
+low level
+live site
+local development environment
+requester
+core
+human-readable URL
+asset
+dependency hell
+DLL hell
+lexical token
+porting
+report
+missing semicolon
+memory capacity
+CPU time
+error handling
+physical media
+distribution time
+installation time
+fix bug
+edit time
+program lifecycle phase
+relocatable code
+code generation
+intermediate code generation
+parameter compatibility
+expression compatibility
+assignment compatibility
+type compatibility
+semantic analysis
+syntax analysis
+translating program
+productivity software
+productivity tool
+definition
+block-structured language
+block structure
+top-level declaration
+explicit
+exit point
+information hiding
+program structure
+program unit
+dynamic binding
+static binding
+r-value reference
+l-value reference
+r-value
+l-value
+addition operator
+address-of operator
+data streaming
+lightweight protocol
+lightweight process
+lightweight
+control flow error
+error handling error
+missing command error
+communication error
+functionality error
+syntactic error
+software error
+hardware error
+error
+error-detecting code
+control information
+box
+firewall service
+internet sharing
+server appliance
+software license
+terms of service
+potentially unwanted program
+software environment
+unwanted software
+pre-installed
+tertiary storage
+reverse video
+recursive algorithm
+sentinel value
+storage violation
+memory protection
+integer literal
+program transformation
+compound statement
+lost
+humanware
+storage unit
+memory unit
+static program
+EPROM
+volatile
+bootstrap program
+illegal opcode
+double fault
+general protection fault
+stack fault
+tricky
+bucketing
+predictor
+linear relationship
+outlier
+feature scaling
+missing value
+saturation
+unresponsive
+TCP SYN flood
+transparent proxy
+DNS query
+DNS leak
+sparse feature
+dense feature
+sparse vector
+discrete variable
+continuous feature
+discrete feature
+categorical feature
+burst cycle
+I/O burst
+CPU burst
+non-preemptive scheduling
+preemptive scheduling
+CPU scheduling
+stateless
+mutable
+read-eval-print loop
+javascript runtime
+fault-tolerant computer system
+digital data
+computer ethics
+redundant power supply
+backup battery
+triple fault
+random reboot
+glossary
+instruction path length
+self-modifying code
+write access
+right parenthesis
+left parenthesis
+nontrivial
+automatic code generator
+aggregation type
+cross compiler
+composite type
+swapping
+memory bandwidth
+free variable
+metasyntactic variable
+temporary variable
+three address code
+optimizing compiler
+linking
+link time
+shared library
+language processing system
+case conversion
+splitting
+string manipulation
+separate compilation
+target code
+trivial
+feature vector
+feature engineering
+panacea
+proxy
+data at rest
+data privacy
+data protection
+classification accuracy
+historical data
+input variable
+dimensionality reduction
+IID
+independent and identically distributed
+dimensionality
+stationarity
+page source
+noise
+noisy data
+data element
+instance variable
+member variable
+class variable
+segment table
+dynamic scope
+memory management error
+activation record
+fashion
+call stack
+segmentation
+memory segmentation
+memory segment
+dynamic policy
+static policy
+memory layout
+software reliability
+unicode overflow
+integer overflow
+heap overflow
+address space randomization
+hardware appliance
+software appliance
+generation
+family
+computer family
+X86
+virtual environment
+virtual appliance
+certification
+appliance
+rich user experience
+browser-based application
+rich client
+mobile web application
+native application
+wrapper function
+inactive account
+inactive window
+swap space
+child process
+job
+two-way communication
+interrupt vector table
+compromised computer
+compromise
+interrupt chaining
+interrupt number
+MIME type
+PID
+process identifier
+thread-safe
+word size
+forwarding
+delegation
+gap buffer
+static array
+dynamic array
+associative container
+single-value container
+data processing
+active process
+exit status
+graphical object
+sentential form
+partial derivation tree
+parse tree
+trail
+hierarchical data
+proper descendent
+proper ancestor
+degree of tree
+size of a tree
+root node
+handshake
+three-way handshake
+SYN packet
+SYN
+blocking
+non-blocking
+independent task
+asynchronous programming
+synchronous
+program documentation
+locked file
+format
+software maintenance
+information system maintenance
+hardware maintenance
+intersection symbol
+intersect
+reverse order
+predefined function
+reason phrase
+status line
+driver code
+driver program
+reusable IP
+tab stop
+FTP client
+command line argument
+variable binding
+duck typing
+software regression
+bugfix
+offsite
+off-site backup
+unpatched
+cybersquatter
+security fix
+security risk
+cybersquatting
+wiretapping
+surfer
+surfing
+surf
+tech-saturated
+digital format
+digital age
+mobile user
+tech-savvy
+over dependence on technology
+internet dependence
+text region
+user protection domain
+protection domain
+trap
+reboot
+power up
+data classification
+database clustering
+database cluster
+take over
+distributed lock manager
+parallel cluster
+parallelization
+symmetric clustering
+browser window
+tabbed browsing
+asymmetric clustering
+progressive enhancement
+graceful degradation
+fail
+interconnect
+sideload
+storage drive
+block storage
+data storage
+IT infrastructure
+cloud service
+notebook
+Notebook document
+Jupyter Notebook
+Google Colab
+specification
+executable document
+relative link
+absolute link
+relative reference
+absolute reference
+AI researcher
+kernel space
+monolithic kernel
+backing store
+parallelism
+heuristic knowledge
+multiple inheritance
+single inheritance
+timer
+cluster computing environment
+grid computing environment
+distributed computing environment
+client-server computing environment
+time-sharing computing environment
+personal computing environment
+computing environment
+bitfield
+volatile variable
+volatile type qualifier
+const type qualifier
+type qualifier
+prefix expression
+multi-pass compiler
+compiler pass
+translation unit
+whitespace
+space normalization
+leading whitespace
+trailing whitespace
+trimming
+workspace
+memory chip
+parity memory
+parity
+data corruption
+rebuild
+disk controller
+down
+stripping
+strip
+hard disk drive failure
+inspect element
+throw
+tokenization
+mini-batch
+batch size
+batch
+Goldilocks learning rate
+loss curve
+magnitude
+gradient
+ground truth
+confusion matrix
+minimum
+step size
+gradient descent
+underfitting
+overfitting
+model fitting
+fitting
+validation loss
+training loss
+bag of words
+convergence
+plug
+commodity hardware
+data execution prevention
+non-login shell
+non-interactive shell
+interactive shell
+login shell
+shellcode
+reverse shell
+bind shell
+critical section
+working set
+page table
+virtual address space
+program break
+stack frame
+uninitialized data segment
+initialized data segment
+code segment
+concurrency
+concurrent programming
+liveness
+safety
+correctness
+communications line
+dedicated channel
+dedicated
+single-processor system
+degree of multiprogramming
+dispatch
+dispatcher
+catch
+raise
+event-driven
+firm real-time system
+soft real-time system
+hard real-time system
+real-time computing
+clean upgrade
+sleep mode
+activity log
+suspend
+programming error
+interactive program
+handle leak
+memory pool
+computer cluster
+server farm
+batch job
+waste
+thread pool
+algorithmic efficiency
+computational resource
+job queue
+graphic object
+data rate
+cost
+boost
+systems house
+turnkey system
+housing
+I/O interface
+vectored interrupt
+interrupt I/O
+maskable interrupt
+synchronous operation
+asynchronous
+asynchronous operation
+transpiler
+proposal
+Vanilla JavaScript
+XMLHttpRequest
+Fetch API
+WebSocket
+HTTP error
+JavaScript specification
+ES6
+JavaScript engine
+internal node
+rightmost derivation
+leftmost derivation
+derivation
+right-hand-side
+right side
+left-hand side
+left side
+context-free grammar
+type inference
+static typing
+dynamic typing
+server-side scripting
+client-side scripting
+transparent program
+compiler directive
+setup
+platform independence
+language independent
+containing block
+relatively positioned element
+failover
+external storage
+internal storage
+internal
+online service provider
+online service
+load time
+fix
+notification
+initial value
+uninitialized variable
+deallocation
+memory corruption
+resource leak
+runtime error detection
+crack the code
+break the code
+strong encryption
+reconfigure
+system configuration
+security vulnerability
+memory safety
+type safety
+type-safe programming language
+polymorphic typing
+type system
+software incompatibility
+custom software
+generic software
+advanced technology
+description
+headline
+bulletin board
+digital newsstand
+newsgroup
+high-tech
+gadget
+bundle
+stand-alone software
+newsreader
+syndication format
+XML sitemap
+HTML sitemap
+blade
+chassis
+efficiency core
+raw performance
+performance core
+high performance computing
+cache algorithm
+cache coherency
+memory location
+memory reference
+spatial locality
+temporal locality
+wired network
+opt-in page
+opt-in conversion
+opt-in rate
+ambiguity
+Cartesian product
+relational algebra expression
+TTFB
+Time to First Byte
+browser caching
+server caching
+page speed
+network bandwidth
+processing power
+cache prefetching
+web archive
+rack server
+U space
+server rack
+scalar function
+scalar value
+500 error
+moved to Atlanta
+404 error
+hypergraphic
+electronic form
+live link
+dead link
+archive site
+date format
+entity number
+entity name
+reserved character
+character entity
+mnemonic
+loose coupling
+multicore system
+clustered system
+scammer
+cold call scam
+auction fraud
+donation scam
+catfish
+online survey scam
+chain mail
+scam
+reveal
+harvester
+identifying information
+doxing
+copyright violation
+cyber terrorism
+cracking
+data diddling
+static build
+interactive website
+non-interactive
+network diagnostic tool
+ICMP
+hypertext
+HTTP
+SSH
+connection
+interprocess communication
+Safe Mode
+system tool
+network interface
+virtual file system
+Linux kernel
+referenced relation
+referencing relation
+foreign key constraint
+unique identifier
+uniquely identify
+primary key constraint
+relation schema
+null value
+atomic
+atomic value
+postfix expression
+infix expression
+down-casting
+up-casting
+narrowing casting
+widening casting
+casting
+subsequence
+subarray
+special-purpose language
+custom code
+project operation
+connective
+select operation
+relational algebra
+garbage
+garbage value
+lower bound
+upper bound
+non-ASCII character
+ASCII file
+sitemap index file
+DUAL table
+SQL engine
+computer law
+recipient
+return receipt
+OOTO
+outbox
+Sent items
+digital communication
+snail mail
+recalculation
+uncompressed data
+server chassis
+retrocomputing
+target value
+output feature
+input feature
+true value
+mean squared error
+empirical risk minimization
+bias
+multivariable linear regression
+simple linear regression
+linear regression
+infer
+classification model
+regression mode
+inference
+unlabeled example
+labeled example
+example
+binary classification
+commodity
+block device
+binary executable
+robust
+robustness
+program analysis
+type error
+hardware description language
+binary translation
+binary executable file
+binary recompiler
+reflex agent
+intelligent agent
+agent
+remote evaluation
+code on demand
+mobile agent
+email attachment
+malicious mobile code
+non-maskable interrupt
+request-response
+message exchange pattern
+requestor
+data-driven
+file handle
+pool
+connection pool
+database connection
+spawn
+throwing an exception
+unchecked exception
+checked exception
+error-free
+legacy
+drive letter
+drop out
+start symbol
+nonterminal
+grammar
+lexeme
+semantic
+aggregate function
+unknown
+set operation
+row constructor
+attribute specification
+pattern character
+correlation name
+data driven progamming
+data point
+expansion pack
+standalone program
+standalone
+standalone device
+video capture card
+capture device
+audio capture
+display screen
+outdated software program
+intermediate representation
+intermediate code
+code optimization
+multiprocessing
+multi-core
+compilation time
+performance
+symmetric multiprocessing
+massively parallel processing
+massively parallel
+evaluate
+expression evaluation
+in-app purchase
+daughterboard
+convertible tablet
+form factor
+identity
+push notification
+progressive web app
+green padlock
+stability
+off the shelf software
+obsolete
+legacy device
+instruction cycle
+context
+context switch
+IRQ number
+interrupt request line
+interrupt request
+interrupt vector
+computer model
+hardware compatibility
+CPU architecture
+software compatibility
+low memory
+Moore's Law
+CPU utilization
+memory utilization
+resource utilization
+resource allocator
+computing resource
+attach a file
+cache line
+processor node
+local memory
+NUMA
+non-uniform memory access
+local bus
+system interconnection
+contention
+local cache
+HTTP response
+symbolic mode
+owner
+absolute mode
+other
+user
+binary operation
+search mask
+grapheme
+grapheme cluster
+continuation byte
+leading byte
+solo byte
+DNS lookup
+DNS prefetching
+link prefetching
+prefetching
+von Neumann bottleneck
+control bus
+computer audit
+system information
+server maintenance
+fraud
+zombie computer
+website defacement
+script kiddie
+unavailable
+concurrent request
+overclocking
+CPU speed
+external data bus
+internal data bus
+data bus
+decoder
+decode
+rendering engine
+ampersand code
+numeric literal
+escape code
+remote application
+deserialization
+serialization
+computer network defense
+preprocessor directive
+desktop lockdown
+system policy
+user profile
+user detail
+tabular format
+semantic element
+Semantic HTM
+message body
+HTTP header
+request line
+value type
+reference type
+compound type
+interactive
+online poll
+active content
+yield
+static compilation
+dynamic recompilation
+software industry
+security breach
+network security policy
+packet capture
+trace
+instrumentation
+free software
+mistake
+introduce
+profiling
+software performance regression
+relation instance
+stored procedure
+procedural query language
+cloneable project
+authorized application
+account notification
+account setting
+native app
+user journey
+widget
+sticky header
+interpret
+shorthand property
+browser engine
+extend directive
+mixin
+nested rule
+CSS preprocessor
+media feature
+vendor specific extension
+functional notation
+length unit
+portable code
+mobility
+mobile code
+dynamic compilation
+range check
+pointer arithmetic
+array bound checking
+procedure inlining
+jump statement
+control flow statement
+aggregate data type
+client side validation
+server side validation
+fixed-sized partition
+system process
+user process
+ready queue
+external fragmentation
+internal fragmentation
+variable partitioning
+memory space
+memory management
+closed source
+learning algorithm
+hyperparameter
+joint probability
+sample space
+outcome
+probability distribution
+predictive modeling
+free text
+histogram
+feature extraction
+assertion
+rule-based system
+manner
+text classifier
+open-ended text
+sentiment analysis
+language detection
+theme
+topic detection
+unstructured text
+text classification
+screen capture
+video capture
+capture
+terminal screen
+ADT
+abstract data type
+suptype
+subtype
+subtyping
+object-based language
+built-in data type
+range
+type modifier
+comparison operator
+logical connective
+pattern-matching predicate
+predicate
+clause
+data definition statement
+CRUD
+data manipulation statement
+connectionless service
+process status
+running
+sleeping
+stopped process
+process table
+reaping
+zombie process
+fill
+multimedia presentation
+PC clone
+function declaration
+real-time data
+read/write
+read/write access
+read-only access
+Public folder
+optional parameter
+memory data register
+controller
+middle
+peripheral
+rollback
+TCL
+DCL
+DDL
+database language
+database driver
+three-tier architecture
+two-tier architecture
+single tier architecture
+concurrent access
+recover
+data recovery
+response time
+activity information
+identity information
+data breach
+data leak
+data isolation
+data inconsistency
+USB hub
+memory bank
+memory controller
+programming environment
+destructive read
+destructive memory
+memory cycle
+print buffer
+keyboard buffer
+buffer storage
+sneakernet
+special-purpose register
+device controller
+network service
+window fullscreen
+full screen
+distraction-free editor
+layered security
+security token
+virtual device
+physical device
+digital device
+codepoint
+qualitative data
+inorder traversal
+division tag
+text formatter
+unformatted text
+formatted text
+container tag
+empty element
+cross-compatible
+mask
+network access
+special-purpose computer
+read/write head
+disk scheduling algorithm
+transfer time
+disk scheduling
+write cycle
+read cycle
+bus cycle
+security loophole
+critical update
+current instruction register
+memory address register
+auto-Decrement addressing mode
+auto-increment addressing mode
+base register addressing mode
+index register
+indexed addressing mode
+register set
+relative addressing mode
+register indirect addressing mode
+register direct addressing mode
+indirect addressing mode
+jump instruction
+scalar processor
+vector
+vector processor
+program counter
+internal register
+constant register
+floating-point register
+truth value
+status register
+aggregate type
+scalar type
+scalar variable
+scalar
+noncorrelated subquery
+scalar subquery
+reverse geocoding
+forward geocoding
+mandatory parameter
+key-value pair
+block-based coding
+enumeration
+derived data type
+custom data type
+helper object
+utility class
+helper class
+URI reference
+fragment identifier
+port number
+host name
+scheme
+at-rule
+comment node
+element node
+DOM node
+parent element
+general sibling selector
+text node
+adjacent sibling selector
+child selector
+descendant selector
+combinator
+attribute selector
+universal selector
+declaration block
+rule set
+punctuator
+member access operator
+shift right operator
+shift left operator
+bitwise shift operator
+logical bitwise operator
+fixed partitioning
+stack depth
+non-contiguous memory allocation
+contiguous memory allocation
+data flow
+function prototype
+public member
+private member
+member function
+data member
+overriding function
+overridden function
+dynamic polymorphism
+static polymorphism
+non-homogeneous data structure
+homogeneous data structure
+object-oriented programming
+portable drive
+fixed drive
+webloc
+compiler technology
+model validation
+validation set
+categorical variable
+continuous variable
+predictor variable
+quantitative data
+target variable
+squared loss
+feature selection
+clustering
+loss
+class label
+fold
+cross-validation
+hold-out
+classification
+scale
+precision
+device dependent
+machine dependent
+fixed-length record
+variable-length record
+fixed length
+variable length
+character varying
+transaction control
+sample data
+populate
+relational query language
+equivalent query
+rename operation
+assignment operation
+data register
+general purpose
+embedded system
+cache hit
+mouse button
+internal command
+external command
+cache miss
+static file
+sync
+complier
+data transformation
+clean code
+removable storage device
+file processing system
+spanning tree
+reflection
+logical data independence
+physical data independence
+data Independence
+logical level
+view level
+physical level
+view schema
+physical schema
+logical schema
+many-to-many relationship
+model
+flat-file database
+handler
+mirror site
+binding time
+binding
+mirror
+dynamic type checking
+candidate function
+overloaded function
+overload resolution
+method signature
+social login
+inherence factor
+possession factor
+knowledge factor
+factor
+authentication factor
+single sign-off
+single sign-on
+UID
+GID
+user identifier
+group identifier
+physical location
+address mapping
+page offset
+page number
+bare metal server
+row oriented database
+space-time tradeoff
+in-house system
+graph database
+spatial data
+data exchange standard
+data exchange
+data exchange language
+declarative query language
+tape
+sequential access storage device
+magnetic tape
+punched card
+database user
+strong relationship set
+concurrency control protocol
+phantom read problem
+blind write
+lost update problem
+unrepeatable read problem
+concurrency problem
+transaction state
+write operation
+read operation
+view serializability
+conflict serializable
+conflict equivalent schedule
+conflict serializability
+serializability
+serializable schedule
+strict schedule
+cascadeless schedule
+recoverable schedule
+upgrade
+coding system
+testing set
+training set
+data set
+water cooled
+high-end PC
+low speed device
+I/O module
+direct memory access
+I/O device
+interrupt driven I/O
+mechanical storage
+electrical storage
+general-purpose register
+address register
+user-accessible register
+direct addressing mode
+immediate addressing mode
+stored program computer
+fixed program computer
+instruction set
+addressing mode
+administrator
+native capacity
+raw video
+raw file
+simulator
+physical memory
+disk access time
+memory access time
+multicomputer
+time frame
+synchronization
+distributed memory multiprocessor
+shared-memory multiprocessor
+descriptive name
+exit controlled loop
+entry controlled loop
+loop control statement
+code size
+loop unrolling
+code bloat
+sloppy code
+bad code
+bloater
+monolithic application
+dirty code
+magic number
+refused bequest
+data clump
+data class
+code smell
+god object
+antipattern
+workaround
+correlated subquery
+outer query
+bitwise XOR operator
+bitwise OR operator
+bitwise AND operator
+decrement operator
+increment operator
+conditional operator
+character constant
+boolean literal
+integer constant
+real constant
+numeric constant
+bitwise one�s compliment operator
+specification of functional requirement
+database server
+transaction management
+column oriented database
+conceptual record
+external/conceptual mapping
+conceptual/Internal mapping
+language feature
+register assignment
+register allocation
+portable language
+"""pure"" query language"
+functional query language
+imperative query language
+schema diagram
+programming methodology
+list of known bugs
+testing document
+technical documentation
+requirements document
+design document
+operational manual
+user manual
+static type checking
+type checking
+static IP address
+dynamic IP address
+propagate
+propagation
+dynaset
+secondary key
+candidate key
+duplicate key
+transaction file
+master file
+addition record
+ASCII text
+snake case
+programming style
+retargeting
+retargetable compiler
+variable-length code
+static length code
+extended ASCII
+bare machine
+contiguous data
+foreground process
+cache server
+edge device
+edge router
+end device
+intermediary network device
+data originator
+transmitter
+bandwidth throttling
+hang
+video display
+background process
+page fault
+email confirmation code
+casual user
+database designer
+routine maintenance
+sophisticated user
+application programmer
+naive user
+production code
+database architecture
+one-tier architecture
+distributed processing
+parallel processing system
+serial processing
+parallel database
+concurrency control manager
+recovery manager
+failure recovery
+sequential seek
+sequential scan
+query plan
+query optimization
+query evaluation engine
+conflicting operation
+non-interleaved execution
+serial schedule
+schedule
+dirty read
+buffer pool
+cascading abort
+compensating transaction
+partially committed state
+committed state
+terminated state
+aborted state
+failed state
+commit
+power failure
+mapping cardinality
+mapping constraint
+CHECK constraint
+DEFAULT constraint
+UNIQUE constraint
+stored attribute
+specialized computer
+active attack
+masquerade attack
+passive attack
+attack surface
+security hole
+unpatched software
+gain access
+file allocation table
+cluster
+attack vector
+injection attack
+input sanitization
+web application security
+least pending requests
+hash table
+hash key
+source IP hash
+weighted round robin
+weighted least connections
+multiprocessor
+macro processor
+sequential program
+instruction-level parallelism
+instruction stream
+cost per bit
+cache eviction
+Least Recently Used
+sequential file
+random file
+random access
+sequential access
+auxiliary memory
+memory hierarchy
+locality of reference
+pendant edge
+null graph
+cycle
+closed walk
+open walk
+length of the walk
+walk
+circumference
+girth
+central point
+diameter
+connected graph
+radius
+eccentricity
+distance
+degree sequence
+multigraph
+parallel edges
+adjacent edges
+idempotent operation
+media type
+representation
+safe method
+HTTP verb
+Web browsing history
+HTTP method
+endpoint
+live coding
+code sample
+sample code
+time-consuming
+free of charge
+SDK
+tilting scroll wheel
+scroll wheel
+screenshot
+scareware
+screen saver
+XML schema
+text box
+technical debt
+user space
+system call
+widening conversion
+narrowing conversion
+explicit type conversion
+automatic type conversion
+implicit type conversion
+typecasting
+type conversion
+bug-free code
+bug free
+strict evaluation
+lazy evaluation
+idempotent function
+mutable object
+formal verification
+invocation
+immutability
+subquery
+membership
+IP canonicalization
+canonicalization
+non-associative
+right-associative
+left-associative
+associativity
+ambiguous
+right recursive grammar
+right recursive production
+left recursive grammar
+left recursive production
+sentence
+character data
+binary number system
+numeric data
+digital revolution
+digitization
+data representation
+character stream
+byte stream
+source-to-source compiler
+loader
+assembler
+hybrid compiler
+intermediate program
+on the fly
+just-in-time compiler
+runtime system
+error diagnostics
+semantic error
+translation
+executable code
+target program
+source program
+DML compiler
+DDL interpreter
+data file
+buffer manager
+authorization and integrity manager
+file manager
+system failure
+transaction manager
+storage manager
+query processor
+physical design phase
+logical design phase
+conceptual design phase
+database programming language
+host language
+non-procedural query language
+declarative DML
+procedural DML
+storage structure
+data manipulation language
+data definition language
+subschema
+generalized entity
+counter
+surrogate key
+composite key
+unique key
+strong entity
+translation algorithm
+computational model
+von Neumann language
+inference engine
+logic programming language
+declarative language
+report generator
+report generation
+third-party software component
+business application
+symbolic language
+symbolic computation
+incremental compiler
+macro instruction
+non-final state
+routing loop
+ICMP Time Exceeded message
+ToS
+Type of Service
+IP Option
+fragment offset
+flags
+time to live
+header checksum
+Total Length
+header length
+trailer
+dialog
+session layer
+longitudinal redundancy check
+two's complement
+one's complement
+Selective Repeat ARQ
+window size
+Go-Back-N ARQ
+propagation delay
+unguided transmission media
+guided transmission media
+transmission medium
+transmission delay
+delay
+network collision
+data collision
+collision
+CMYK
+clean room
+circuit
+camera raw
+CAD
+stream
+video streaming
+burn
+boot sector
+biotech
+least connections
+round robin
+load balancing algorithm
+load balancing
+search scope
+disaster recovery
+high availability
+business continuity
+power supply
+single point of failure
+fault tolerance
+call coverage
+branch coverage
+condition coverage
+function coverage
+statement coverage
+code coverage
+test coverage
+test scenario
+test suite
+workload
+adjacent vertices
+adjacent
+isolated vertex
+pendant vertex
+graph
+graph theory
+epsilon closure
+reachable
+unreachable state
+epsilon transition
+output symbol
+input symbol
+state diagram
+transition function
+transition table
+weight
+graph representation
+weighted graph
+undirected graph
+forest
+strongly connected component
+database schema
+sandboxing
+RTE
+RPC
+ripping
+repository
+remote desktop
+Hold and Wait
+circular wait
+no preemption
+mutual exclusion
+starvation
+race condition
+mutex
+Monte Carlo method
+metalanguage
+mapping
+keyboard mapping
+shared directory
+map
+metaclass
+functional purity
+composability
+single responsibility principle
+code duplication
+plain object
+first-order function
+first-class function
+first-class citizen
+higher-order function
+impure functional language
+pure functional language
+functional programming
+procedural programming
+system tray
+systray
+symbolic link
+subdirectory
+struct
+pad character
+null character
+no-operation instruction
+nonexecutable statement
+target language
+source language
+Hamiltonian graph
+euler graph
+pseudograph
+simple graph
+planar graph
+bipartite graph
+infinite graph
+finite graph
+acyclic graph
+cyclic graph
+cycle graph
+complete graph
+regular graph
+disconnected graph
+trivial graph
+record type
+structured type
+record-based model
+abstract
+database system
+file-based data management system
+conventional programming
+database state
+data analytics
+online transaction processing
+data access
+web access
+front office application
+back office application
+semi-structured data
+unstructured data
+structured data
+commercial data
+management
+non-serial schedule
+pseudo transitive rule
+DFA minimization
+partial participation
+n-ary relationship
+binary relationship
+unary relationship
+total participation
+many-to-many
+many-to-one
+one-to-many
+one-to-one
+descriptive attribute
+super key
+simple attribute
+single valued attribute
+relationship set
+sliding window ARQ
+number base
+carry
+redundant bit
+odd parity checking
+parity checking
+even parity checking
+parity bit
+vertical redundancy check
+error detection
+not acknowledged
+negative acknowledgement
+ping
+two-way protocol
+bidirectional communication
+signal
+retransmission
+packet error rate
+packet error
+packet loss
+interference
+biometric authentication
+biometric
+random seed
+random
+RAD
+bespoke system
+bespoke website
+bespoke software
+bespoke
+predictive text
+VoiceOver
+speech to text
+assistive technology
+parse
+OR operator
+ARP
+APM
+third party plug-in
+third party software
+third party hardware
+third party
+Ad Hoc Network
+vertical scaling
+horizontal scaling
+distributed system
+general case
+edge case
+distance vector routing
+autonomous system number
+routing domain
+autonomous system
+adaptive architecture
+backbone network
+heterogeneous network
+exterior routing
+interior routing
+routing protocol
+remote route
+directly connected route
+primary server
+caching
+remote router interface
+local router interface
+Outgoing Interface
+strongly connected
+directed acyclic graph
+directed cycle
+directed path
+subgraph
+indegree
+outdegree
+parallel edge
+parallel
+self-loop
+directed graph
+transition diagram
+NFA
+DFA
+finite control
+input tape
+ethernet address
+address resolution
+resolve
+name resolution
+file attribute
+magic quote
+device tree
+Open Firmware
+office
+portable software
+piracy
+RTF
+opacity
+reimage
+active user
+registry
+memory register
+IR
+instruction register
+register
+readme
+QBE
+PUP
+PUM
+prebinding
+literal command
+greenfield
+brownfield
+minimum requirement
+recommended requirement
+system requirement
+bloatware
+disk image
+batch process
+bare metal restore
+backdoor
+ASO
+software interface
+socket
+I/O port
+PCI
+FSB
+frontside bus
+bus
+web forum
+MIPS
+interactive video
+import
+image scaling
+Illegal Operation
+type 2 hypervisor
+type 1 hypervisor
+hypervisor
+hotfix
+horizontal market software
+grep
+focus
+frozen
+JSR
+IPC
+golden master
+beta release
+stable release
+noncontiguous data structure
+NodeList
+NIM
+nested function
+null pointer
+nested loops join
+ne
+NDA
+native compiler
+NaN
+SNMP
+spellchecking
+spellcheck
+print spool
+spool
+soft token
+hard tag
+hard token
+SMB
+snippet
+snapshot
+decomposition rule
+deletion anomaly
+updation anomaly
+insertion anomaly
+normalization
+database normalization
+transitive functional dependency
+non-trivial functional dependency
+trivial functional dependency
+multivalued dependency
+transitive rule
+augmentation rule
+reflexive rule
+union
+determinant
+dependent
+axiom
+functional dependency
+entity integrity constraint
+tuple uniqueness constraint
+cardinality constraint
+derived attribute
+multivalued attribute
+composite attribute
+key attribute
+relationship
+one-to-one relationship
+one-to-many relationship
+weak entity
+intangible entity
+tangible entity
+entity type
+entity set
+associative data model
+context data model
+semi-structured model
+flat data model
+object-relational model
+object-oriented data model
+ER diagram
+entity relationship model
+merge
+sequence number
+Stop-and-Wait ARQ
+automatic repeat request
+timeout
+acknowledgement
+burst error
+single bit error
+presentation layer
+end-to-end
+application layer
+transport layer
+error control
+data link layer
+physical layer
+OSI Model
+memory module
+defragmentation
+geocast
+link
+channel
+congestion
+ACID
+claims section
+access token
+API monitoring
+API health
+web service
+modular programming
+flat
+overloading
+overload
+overflow error
+operator associatively
+programmable
+program listing
+program list
+program generator
+POD
+phrase tag
+pickling
+pastebin
+operation code
+Next Hop
+metric
+sliding window protocol
+packet discard
+refresh rate
+jitter
+transmission error
+bandwidth junkie
+bandwidth limited
+transmission limitation
+storage delay
+throughput
+SI prefix
+bit rate
+transmission time
+stop and wait protocol
+simplex
+transmission mode
+physical topology
+transmission rate
+database engine
+non-canonical
+canonical
+transition
+dead state
+rejecting state
+final state
+initial state
+infinite language
+finite language
+language
+length of a string
+empty string
+automata
+discrete system
+finite automata
+theory of automata
+push technology
+power button
+pseudolanguage
+pseudo op
+prolog
+literal string
+life cycle
+loony bin
+LUT
+lookup table
+local optimum
+lexicon
+lexical analysis
+translator
+language processor
+hardware ID
+label
+kit
+disk signature
+MBR
+scripting engine
+middleware
+reinvent the wheel
+NetBIOS
+rich text
+native file
+archive
+processor cache
+clock cycle
+frequency
+ANR
+alpha software
+fixed-width layout
+fluid layout
+adaptive content
+active cell
+non-word character
+word character
+zero-length match
+conditional compilation directive
+macro expansion
+macro template
+quantifier
+multi-line mode
+word boundary
+regex-directed engine
+text-directed engine
+release candidate
+alpha version
+file sharing
+gnutella
+dereference
+undefined behavior
+dangling pointer
+reference counting
+lag
+FPS
+file type
+file association
+favorites
+video dimension
+export
+FAT32
+boot disk
+boot sequence
+emoji
+edtech
+runtime environment
+runtime version
+skin
+service pack
+silent install
+central office
+cell tower
+preference
+cyberspace
+logical drive
+dynamic disk
+physical volume
+removable hard disk
+storage volume
+volume
+disk mirroring
+dedicated host
+throttling
+server rate limiting
+geographic rate limiting
+API key
+user rate limiting
+rate limit
+novice
+trial period
+trial version
+lite version
+shareware
+honor-system
+demoware
+trialware
+free trial
+computer system
+textual data
+binary code
+character code
+end of line marker
+NPC
+newline
+non-printable character
+character class
+repetition operator
+close square bracket
+participation constraint
+circular linked list
+parent-child relationship
+anycast
+command line tool
+route
+dynamic routing
+static routing
+stub router
+default routing
+layer
+PDU
+segment
+variable size framing
+fixed size frame
+routing table
+routing
+transmit
+network layer
+Don�t Fragment
+frame rate
+fragmentation
+source IP address
+destination IP address
+one-pass compiler
+compression ratio
+bom zip
+Zero Day Exploit
+obtuse
+object module
+obfuscation
+SRE
+legacy class
+Java collection framework
+object wrapper
+driver wrapper
+function wrapper
+wrapper
+wizard
+WIMP
+waveform
+wallpaper
+blacklist
+whitelist
+virus definition
+outer scope
+database instance
+SQL Server instance
+database manager
+forward error correction
+backward error correction
+error correction
+error checking
+overhead
+packet overhead
+hardware resource
+system resource
+remote access
+remote control
+file transfer
+remote host
+store and forward
+forward
+pseudorandom number generator
+pseudorandom
+positional parameter
+onmouseover
+protocol overhead
+directory traversal
+remote file inclusion
+web shell
+backdoor shell
+code injection
+escape sanitizing
+blacklist sanitizing
+whitelist sanitizing
+endpoint device
+physical attack surface
+digital attack surface
+insider threat
+compromised
+multithreading
+metadata
+metafile
+MAMP
+lossy
+8.3 format
+LFN
+JDBC
+ISR
+interrupt service routine
+software interrupt
+hardware interrupt
+interrupt
+network communication
+multiprocessor system
+shared memory
+fork
+header file
+trial software
+file inclusion
+preprocessor
+flavor
+vertical tab
+form feed
+serial number
+product key
+commercial software
+freeware
+activation key
+adserver
+adware
+address space
+liveware
+navigation key
+special key
+alphanumeric key
+keying device
+line feed
+character set
+runtime library
+DFS
+distributed file system
+distributed learning system
+distributed computing
+distributed
+hardware platform
+runtime engine
+platform-independent
+intermediate language
+input/output statement
+inline code
+inline element
+inline
+inherent error
+dual boot
+PnP
+plug and play
+drag and drop
+donationware
+DLC
+DirectX
+block-based programming
+I-cursor
+block cursor
+binary operator
+bitwise operator
+bit shift
+hairball
+connectile dysfunction
+dooce
+blogosphere
+vlogosphere
+picnic
+open learning
+bagbiter
+total solution
+added value
+obsolete element
+HTML converter
+c-learning
+cyberveillance
+div
+disassembler
+restore point
+checkpoint
+diff
+DHTML
+object file
+DLL
+dynamic library
+static library
+foreground thread
+newsletter
+this page intentionally left blank
+macro
+extensible
+rate limiting
+Secure Boot
+enterprise environment
+SDS
+loopback plug
+loopback test
+shared state
+tunneling
+payload
+PUT
+HEAD
+idempotent method
+memory footprint
+hand coding
+footprint
+idempotency
+open square bracket
+close parenthesis
+open parenthesis
+caret
+backslash
+special character
+literal character
+free access
+donation
+regular expression flavor
+regex engine
+lazy quantifier
+greedy quantifier
+hyphen
+percentage sign
+max heap
+min heap
+confirm shaming
+dark pattern
+heap
+Heroku
+Apps Hungarian Notation
+data unit
+soft real time system
+hard real time system
+deadline
+real-time software
+data mirroring
+redundancy
+communication link
+logical network
+physical computer network
+packet-switched network
+sender
+origin
+receiver
+processing delay
+queueing delay
+medium
+inner scope
+parent function
+vertical market
+vertical market software
+scope chain
+outer function
+lexical scope
+DevOps toolchain
+toolchain
+software toolchain
+epoch time
+timestamp resolution
+timestamp
+text area
+text field
+on-screen keyboard
+UTF-8 signature
+host system
+host byte order
+network byte order
+text stream
+text-based
+text-oriented display
+variable-width encoding scheme
+ASCII Extension
+encoding scheme
+pound sign
+printable character
+return code
+control code
+typewriter
+punctuation
+direct media access
+digital music player
+portable media device
+media device
+MP3 player
+handheld device
+Direct3D
+intellectual property
+stock photo
+digital entity
+digital asset
+default program
+data management
+ACID compliance
+durability
+isolation
+consistency
+atomicity
+production system
+transactional database
+deadlock
+DCIM
+dark mode
+HTTPD
+daemon
+cron
+lossyness
+blogola
+web novel
+blook
+open profile
+griefer
+cobweb site
+alpha geek
+screenager
+dead tree edition
+netroots
+web portal
+dynamic content
+corante
+RSS title
+RSS feed validator
+RSS link
+RSS description
+RSS channel
+loss leader
+flog
+blogroach
+24-7
+trap door
+network resource
+paperback
+computer resource
+key-based authentication
+getting started
+Quick Start
+developer tool
+developer's toolkit
+development tool
+working group
+input size
+further reading
+space complexity
+quadratic time
+logarithmic time
+linear time
+constant time
+Big O notation
+time complexity
+AIO
+portable computer
+buyer persona
+hamburger menu
+page jumping
+ethical hacking
+performant
+concatenation
+string literal
+digital
+low-code development
+immutable
+memoization
+side effect
+sorting algorithm
+minification
+formal parameter
+scope
+copyright infringement
+embedded software
+instantiation
+placeholder
+Systems Hungarian Notation
+Hungary Notation
+cache invalidation
+programming circle
+heuristic evaluation
+Hello World
+human error
+greedy
+moderation
+GPL
+glue code
+glob
+glitch
+GIGO
+general-purpose language
+GCC
+fuzzer
+flat file
+flag
+first-class object
+false positive
+exception handling
+portable media player
+music recording
+CD-WO
+compact disc recordable
+to burn a CD
+media player
+sound card
+smart speaker
+streaming audio delivery
+audio file
+streaming music
+freemium
+installable version
+full version
+ads
+lossy compression
+lossless
+lossless compression
+media compression
+codec
+clip art
+unmount
+mount
+recovery partition
+data partition
+system file
+system partition
+clean install
+cell reference
+cell
+recoverable error
+unrecoverable error
+BSOD
+swag
+Architecture Of Participation
+anonoblog
+mouse hover
+Early Adopter
+Grok
+cyberculture
+cyberbuck
+cybersuicide
+cyberpublisher
+cybernaut
+cyberlaw
+Neo-Luddite
+dilberted
+Future-Proof
+active hyperlink
+base URL
+page template
+embedded file
+subsite
+cool URI
+monetization
+dedicated system
+dedicated computer
+authentication server
+password policy
+password authentication
+codebase
+runtime enviroment
+portable version
+portable application
+pull
+timeline
+code snippet
+digital form
+chronological order
+draft mail
+emulator
+native code
+native language
+software architecture
+platform dependent
+build number
+version name
+troubleshooting
+copycat website
+retired URL
+TLS
+TSL/SSL certificate
+edge server
+origin server
+static resource
+round-trip time
+accelerated mobile page
+301 redirect
+syndicated content
+syndicated post
+device type
+mobile page
+duplicate page
+canonical page
+googlebot
+on-premises
+implementation
+bound
+linker
+routine
+symbolic address
+bind
+binary search
+JavaBean
+batch file
+backpropagation neural network
+background thread
+bug tracking
+diagnostics
+bugfairy
+branch
+BOM
+automation
+Automated unit testing
+APK
+IP allocation
+disk allocation
+memory allocation
+alert box
+event listener
+escape
+escape character
+errorlevel
+equals sign
+scope pollution
+data area
+name hiding
+visibility
+lifetime
+local scope
+global scope
+pure function
+nondeterministic function
+deterministic function
+helper function
+stack trace
+undefined variable
+reference error
+LSB
+least significant bit
+epoch
+jailbreak
+TOSsed
+clewbie
+acronym expansion
+three-click rule
+clean URL
+messy URL
+auto classification
+darknet
+volume licensing
+slashdot effect
+slashdotted
+shelfware
+neglexting
+cobot
+it�s a feature
+private network
+public network
+storage service
+cloud provider
+osborne effect
+release number
+unary operator
+hex editor
+hard coding
+clipboard
+video editing
+color picker
+print preview
+word processing
+computer architecture
+visual-based programming language
+text-based programming language
+dashboard
+dead code
+DDE
+dereference operator
+dependent variable
+sparse matrix
+deductive database
+decrement
+decompiler
+dataflow programming
+database entity
+catalog
+leading
+trailing space
+metacharacter
+canonical URL
+programming paradigm
+multi-paradigm programming language
+installation
+software license agreement
+unicast
+fingerprint scanner
+mobile-friendly website
+video selfie
+compressor
+data compression
+compression
+uptime
+masquerade
+traffic analysis
+core concept
+random number
+alert
+aggregation
+aggregate object
+composition
+routing prefix
+route aggregation
+packet aggregation
+link aggregation
+aggregator
+aggregate
+ADO
+add
+ActionScript
+Association for Computing Machinery
+segmentation fault
+A-0
+arithmetic language version 0
+%1
+third-generation language
+2GL
+second-generation language
+1GL
+EOF
+LE
+little endian
+BE
+big endian
+endianness
+ellipsis
+eight queens problem
+dribbleware
+cooked data
+raw data
+dump
+DML
+do
+active pane
+active page queue
+active page
+active open
+active node
+active monitor
+active matrix
+active mass storage volume
+active link
+active line
+active keyboard
+active group job
+active grab
+active gateway
+active file
+active environment group
+active device
+active configuration
+active code page
+active application
+heisenbug
+schroedinbug
+casters-up mode
+broken hyperlink
+unusual software bug
+bohrbug
+mandelbug
+netizen
+Drop The Pin
+perceptual computing
+IPA
+Intelligent Personal Assistant
+hypertargeting
+viewport
+citizen developer
+DFD
+data flow diagram
+CVS
+CSS editor
+CSS compressor
+content migration
+transaction
+concurrency control
+commutative operation
+code refactoring
+code page
+Classpath
+CSAT
+CC
+closure
+camel book
+callback
+bytecode
+browse
+ascending order
+descending order
+item
+local traffic
+forward traffic
+multicast traffic
+unicast traffic
+framing
+vandalism
+blackmail
+multicast packet
+broadcast packet
+multicast networking
+multicast address
+network congestion
+broadcast address
+advertiser
+offset
+relative address
+ablartion
+AberMUD
+abbr
+first-generation language
+word wrap
+NBSP
+non-breaking space
+pipe client
+pipe server
+data transfer rate
+seek time
+RPM
+rotational latency
+network latency
+disk latency
+misconfigured server
+approve
+link spam
+authenticity
+incoming HTTP request
+public key cryptography
+cyber attack
+certificate authority
+CA certificate
+sitemap URL
+active address
+active
+activator
+activation stack
+activation
+activating
+action table
+action statement
+action object
+action message
+ActionMedia II
+action list
+action entry field
+action entity world
+action description
+action code
+action bar pull-down
+action bar
+action
+actinic light
+ACS routing
+A
+A/D converter
+ADCON
+Address constant
+ADCCP
+Advanced Data Communications Control Procedures
+Analog-to-digital converter
+ADB
+Apple Desktop Bus
+adaptive thresholding
+adaptive sessilon pacing
+adaptive session-level pacing
+Adaptive Research Corporation
+adaptive pacing
+adaptive diferential pulse code modulation
+Adaptive Bilevel Image compresion
+Advanced Communications Function for the System Support Programs
+Advanced Communications Function for the Network control program
+Advanced Communications Function
+acetate
+Acer Group
+ACD pilot number
+Asynchronous Communicatons Device Interface
+ACD group
+AC/DC ringing
+automatic call distribution
+accuracy control charater
+accuracy
+accunet
+accumulating
+accumulate
+accrediation
+account number
+accouting system
+accounting segment
+accounting package
+non-canonical page
+cross-domain URL
+copyright law
+typography
+hop
+latency
+downtime
+visual design
+domain spoofing
+hreflang
+reading direction
+product catalog
+website localization
+localized site
+Automatic class selection rating
+ACS
+ABR
+ABP
+AC inicator
+ACE
+ACF
+ACROS
+"Accuse, convict, retrench or sack"
+ACRI
+Audio cassette recorder interface
+ACRE
+Automatic call-recording equipment
+acquire - program - device operation
+acquired session
+acoustic storage
+acoustic panel
+acoustic memory
+acoustic impulse
+acoustical feedback
+acoustic emanations
+adapter Support Interface
+actlvity inventory
+activity content
+activity
+active wiretapping
+active window
+active wait
+active volume
+active virtual terminal
+active video lines
+active translation plan
+active subfile record
+active subfile
+active storage
+active station
+active state
+active sort table
+active program
+active pixel region
+active partition
+accounting machine
+accounting level
+accounting exit routine
+accounting entry
+accounting code
+accounting check digit
+account file
+accountability information
+accountability
+account
+access unit
+access type
+access slot
+access right
+access procedure
+access priority
+access plan
+access permission
+access period
+access path journaling
+access path independence
+access path
+absolute positioning
+absolute loader
+absolute instruction
+absolute expression
+absolute error
+absolute device
+absolute data
+absolute coordinate
+absolute command
+absolute coding
+absolute addressing
+absolute address
+AB roll
+automatic baud recognition
+actual block processor
+about...
+abort sequence
+aborted connection
+A4
+acoustic delay line
+acoustic coupler
+ACM
+Association for Computer Machinery
+ACL
+Advanced CMOS logic
+Automated console operations
+ACKO
+acknowledgment character
+acknowledgment
+acknowledge timeout
+acknowledged service
+acknowledged mail
+acknowledge character
+acknowledge
+ACK
+The acknowledge character
+ACID test
+ACIA
+ACF/VTAME
+ACF/VTAM product
+ACE/TCAM
+accessory
+accessor environment element
+accessor control
+accessor
+access name
+access mode
+access method services
+access method routines
+access method interface
+access method control block
+access method
+access mechanism
+access matrix
+access macro
+access lock
+access list
+access line
+access level
+access key
+access environment
+access control system
+Access Control - Logging and Reporting
+A3
+A2
+A1
+A0
+HTML structural element
+content relocation
+consistent casing
+page title
+video file format
+music file format
+photo file format
+media file
+configuration file
+organic search result
+word document
+tip
+hint
+resource error
+arithmetic error
+compilation error
+technical problem
+organic traffic
+brainstorming
+console application
+google bomb
+keyword density
+vendor
+search engine marketing
+technology sector
+IP masking
+Geo-Targeting
+compression tool
+web-based tool
+subscription website
+scraper site
+business logic
+incoming request
+delimiter
+external web site
+sitemap protocol
+hook
+ACF/NCP
+ACDI
+ACD
+ACEE
+Asynehronous communication interface adapter
+"""A"" Change"
+ACF/VTAM operator command
+ACF/VTIAM operator
+Advanced Communications Function for the Virtual Telecommunications Access Method Entry
+ACF/VTAM definition library
+ACF/VTAM definition
+ACF/VTAM application program
+Advanced Communicatons Function for the Virtual Telecommunications Access Method product
+ACF/TCAM base system
+Advanced Communicatons Function for the Telecommunications Access Method
+Advanced Communications Function lor the Trace Analysis Program
+access control lock
+access control list
+access controller
+access control key
+access control field
+access control byte
+access code
+access charge
+access channel control
+access category
+access capability
+access barred
+access authority
+access arm
+accept - sequence - error indicator
+accepting station
+accept - command - key indicator
+acceptance test
+acceptable quality level
+accent
+accelerator board
+accelerator
+IT professional
+IT sector
+overall site topicality
+meta description
+meta keyword
+hyperlinked image
+URL encoding
+application migration
+cloud migration
+search engine simulator
+data migration
+database migration
+query string parameter
+diagram
+crawl demand
+graphical text
+crawlable image
+crawl budget
+virtual hosting
+javaScript redirect
+meta refresh
+Link Bait
+redirection status code
+HTTP status code
+parser
+campaign parameter
+URL parameter
+proprietary software
+standards-compliant
+doorway page
+validator
+parallel port
+serial port
+rightward facing angle bracket
+kernel
+buffer overflow
+ring buffer
+spooling
+buffer
+hidden directory
+hidden file
+pipe
+acceleration time
+ACC
+ACB name
+application control block generation
+ACB-based macroinstruction
+ACB address space
+ACB
+academy studies
+altemating current
+abstract symbol
+absolute vector
+absolute value
+absolute term
+absolute priority
+meta-exclusion
+cold standby
+warm standby
+hot standby
+control statement
+sequential order
+predefined variable
+forward compatible
+backward compatible
+search engine cloaking
+IP cloaking
+cloaking
+wildcard
+database operation
+duplicate content
+canonical tag
+relevant keyword
+well-crafted URL
+URL structure
+search engine friendly URL
+text-based web browser
+home directory
+root directory
+domain authority
+title tag
+remote user
+remote machine
+local machine
+executable file
+public website
+file format
+keystroke
+keyboard stroke
+forum
+solid foundation
+search engine rank
+search engine marketer
+programming background
+technical detail
+marquee tag
+shell builtin
+pwd command
+present working directory
+natural search result
+search result
+natural number
+anchor tag
+source address
+self-driving car
+password cracking
+organized crime
+internal attack
+cipher text message
+scalability
+keyboard shortcut
+redirection
+standard stream
+unix-like operating system
+log out
+whoami
+shadow password file
+login
+shell
+localhost
+loopback address
+official information
+copywriting
+netblock
+link churn
+name server
+anchor text
+pull-down menu
+toolkit
+web hosting provider
+spider trap
+word delimiter
+streaming media
+dynamic URL
+static URL
+status bar
+URL rewriting
+stress testing
+grid computing
+boundary value analysis
+computer-intensive
+compute-intensive
+equivalence partitioning
+Virtual Desktop
+BrowserStack
+mobile platform
+forward compatibility testing
+backward compatibility testing
+compatibility testing
+fuzz testing
+boundary testing
+application-level validation testing
+data-level validation testing
+data migration testing
+load testing
+system testing
+preventive maintenance
+perfective maintenance
+adaptive maintenance
+inode
+current directory
+command prompt
+command line program
+batteries Included
+input unit
+standard input device
+console output
+console input
+branching
+standard output
+format specifier
+fifth-generation programming language
+application generator
+query language
+fourth-generation language
+object code
+third-generation programming language
+procedural language
+patch
+maintenance programmer
+program maintenance
+corrective maintenance
+dependency analyzer
+static analyzer
+dynamic analyzer
+data flow analyzer
+program slicer
+standards document
+error redirection
+file descriptor
+output redirection operator
+input redirection
+PIN
+index page
+search term
+sponsored search result
+program flowchart
+system flowchart
+computer operator
+beta testing
+testing by a select group of potential users
+testing sample data on the computer
+attempt at translation
+manually testing with sample data
+desk checking
+white box testing
+black box testing
+program testing
+software testing
+structured programming technique
+structured program
+loop structure
+selection structure
+sequential structure
+logic structure
+decomposition
+top-down design
+top-down program design
+integrity constraint
+information integrity
+relational integrity constrain
+attribute domain
+cardinality
+degree
+cloud database
+online database
+data entry
+database domain
+tuple
+relation
+relational database
+network database
+hierarchical database
+database model
+subsystem
+application generation subsystem
+data administration subsystem
+program objective
+program design
+program specification
+computer programmer
+database administrator
+business statistical information
+demographic data
+text database
+web database
+data mining
+data warehouse
+commercial database
+distributed database
+company database
+individual database
+mandatory relationship
+relationship type
+optional relationship
+non-identifying relationship
+identifying relationship
+business rule
+enterprise constraint
+query by example
+data manipulation subsystem
+data dictionary
+data definition subsystem
+DBMS engine
+data integrity
+real-time processing
+batch processing
+data field
+entity
+data organization
+logical view
+physical view
+computer-aided manufacturing
+computer-aided design
+knowledge base
+knowledge worker
+inventory control system
+information systems manager
+file encryption
+email encryption
+cryptographic algorithm
+encryption algorithm
+cryptographic key
+master password
+password manager
+security suite
+Computer Fraud and Abuse Act
+Infected USB flash drive
+Rogue Wi-Fi Hotspot
+malicious hardware
+cracker
+rootkit
+malicious software
+phishing
+ransomware
+data manipulation
+internet scam
+foreign key rule
+parent table
+child table
+orphan record
+entity integrity
+domain integrity
+constraint
+relational model
+domain constraint
+referential integrity
+NOT NULL constraint
+semantic integrity constraint
+key constraint
+relational schema
+human expert
+expert system
+knowledge work system
+videoconferencing system
+office automation system
+information worker
+charge interest
+early payer
+payment
+late payer
+late-paying customer
+past due account
+decision maker
+group decision support system
+operational model
+tactical �model
+strategic �model
+decision model
+external data
+internal data
+demand report
+identity theft
+computer crime
+online identity
+antispyware
+keylogging
+keylogger
+computer monitoring software
+spammer
+web bug
+privacy mode
+dead-drop
+third-party cookie
+first-party cookie
+browser cache
+history file
+illusion of anonymity
+employee monitoring software
+electronic profile
+public record
+information reseller
+big data
+browser automation
+forward slash
+absolute path
+relative path
+Off-page SEO
+locally administered address
+universally administered address
+network address
+subnet mask
+subnet
+office network
+network device
+legacy code
+one-way function
+nonsecret encryption
+commutative key
+automatic indentation
+code generator
+open source license
+exception report
+periodic report
+balance sheet
+income statement
+general ledger
+payroll
+accounts payable
+purchase order
+inventory control system
+function body
+function header
+accounts receivable
+sales order processing
+executive support system
+decision support system
+management information system
+transaction processing system
+top management
+middle management
+supervisor
+desciptive name
+curly brace
+square bracket
+half duplex
+surrounding parentheses
+deprecated
+anonymous function
+parameter list
+method name
+return statement
+return type
+syntax notation
+method header
+formal argument
+non-alphanumeric characters
+garbage collection
+link building
+linear workflow
+workflow
+key combination
+non-volatile storage
+volatile storage
+still picture
+junk e-mail
+unauthorized access
+PascalCase
+package
+programming language implementation
+standard library
+invalid value
+video-calling
+selfie
+rear-facing-camera
+front-facing-camera
+Disaster Recovery Plan
+data security
+physical security
+data loss
+data redundancy
+dictionary attack
+leaf node
+reserved address space
+firmware
+MAC address
+distro
+software distribution
+performance testing
+web hosting control pane
+testing tool
+automated testing
+comment box
+issue
+shift cipher
+traning data
+tooltip
+face recognition
+face detection
+code editor
+software ecosystem
+programming ecosystem
+IT ecosystem
+community edition
+penterprise edition
+marketing
+accounting
+research
+production
+human resource
+benefits package
+ever-changing digital world
+IT security analyst
+plagiarism
+cyberbullying
+Digital Millennium Copyright Act
+email scam
+antivirus software
+weak password
+strong password
+DRM
+software piracy
+computer ethic
+wireless network encryption
+website encryption
+email certificate
+principal diagonal
+unit mattrix
+linear algebra
+voice user interface
+touch user interface
+form-based user interface
+menu-driven user interface
+secrets vault
+password vault
+dialogue box
+central repository
+build automation
+subcommand
+shell script
+privileged access
+privileged access management
+non-user account
+interactive account
+privileged account
+user account
+multimedia data
+serviceability
+calculator
+computation time
+download speed
+upload speed
+path
+up arrow
+machine learning model
+decryption key
+encrypted data
+unencrypted data
+encryption key
+IntelliSense
+autocompletion
+inner array
+outer array
+outer loop
+nested loop
+right click
+footnote
+URL mapping
+assignent statement
+operator precedence
+professional edition
+On-Page SEO
+shallow depth of field
+portrait mode
+control stick
+programming tool
+nested class
+slug
+hard copy
+digital copy
+digital signature
+signed document
+data repository
+default value
+order management
+streaming content
+credit card
+system monitor
+compile time
+compiled language
+color depth
+style sheet
+evolutionary product
+reliability
+square matrix
+product management
+customer management
+share ratio
+seed
+peer
+subheading
+shipping cost
+authorized user
+data transfer
+service provider
+hacker
+portable device
+moving picture
+two-tier affiliate program
+Ty
+tree
+tag cloud
+tweak
+Typosquatting
+Safari
+sandbox
+SED
+SEM
+SERP
+shared hosting
+shopping cart
+social ads
+soft copy
+Spambot
+Spamdexing
+Splash page
+Splog
+home network
+ethernet adapter
+Ethernet
+gateway
+LAN
+router
+directory server
+node
+computer network
+packetization
+TCP/IP
+baseband
+broadband
+medium band
+voiceband
+cable modem
+DSL modem
+transfer rate
+demodulation
+dot operator
+input field
+terminal window
+decimal system
+legacy system
+dependency
+coding convention
+crash
+temporary file
+security misconfiguration
+session ID
+broken authentication
+user session
+exploit
+exploitation
+threat agent
+security vulnerability
+beta version
+product release
+team
+update
+broadcast message
+unique content
+leak
+memory leak
+text document
+general purpose computer
+internet connection
+remote server
+benchmark
+Google Analytics
+service agreement
+account detail
+account name
+technical support
+personal information
+corporate network
+VPN protocol
+workstation
+intrusion detection system
+network security
+secure network
+extranet
+SSI
+Subdomain
+Sysop
+Software Engineering
+Subtraction
+Suffix Increment
+Suffix Decrement
+Subtraction assignment
+Sorting
+Selection Sort
+Searching
+Single-argument constructor
+Search engine submission
+spaghetti code
+Sticky content
+Showcase website
+Social media
+Screen reader
+Social media marketing
+SVG
+Radio button
+modulation
+digital signal
+GPS
+downlink
+uplink
+satellite communication
+cellular communication
+WiMax
+Microwave communication
+Bluetooth
+wireless connection
+fiber-optic cable
+coaxial cable
+twisted-pair cable
+physical connection
+communication channel
+data transmission specification
+connection device
+sending and receiving devices
+communication system
+disaster recovery specialist
+storage area network
+stage environment
+development environment
+production environment
+digitization of book
+term of service
+relocation register
+physical address space
+logical address space
+base address
+logical address
+MMU
+destination address
+network traffic
+broadcast traffic
+broadcast
+broadcast domain
+specialization
+generalization
+super class
+theory of computation
+out of memory
+low disk space
+Netscape
+Mailbot
+Mailing list
+Moderator
+Mosiac
+MP3
+Modulo assigment
+Multipication assigment
+Magento
+Mobile Web
+Link authority
+Link checker
+Link exchange
+Link farm
+Link rot
+Long-tail keywords
+Look and feel
+peer-to-peer network
+client-server network
+strategy
+mesh network
+tree network
+star network
+ring network
+bus topology
+topology
+network architecture
+metropolitan area network
+personal area network
+hotspot
+base station
+Wireless LAN
+Raster graphics
+Reciprocal link
+Referrer
+Rich media
+RSS
+Radix Sort
+Real data type
+Reach
+Real estate
+Relevancy
+robots.txt
+Review site
+Responsiveness
+Rewrite URL
+Ranking function
+Resource Description Framework RDF
+QuickTime
+Quirks mode
+Queue
+Quicksort
+Page impression
+Backlink
+Backbone
+Binary Tree
+Buble Sort
+Base
+Base class
+BMP
+Bitrix Site Manager
+Bitrix intranet
+Bitrix
+Bad neighborhood
+Below the fold
+block-level element
+Bounce rate
+Brightness
+Banner ad
+Baud
+BBS
+Binary Data
+organizational cloud storage
+network attached storage
+file server
+enterprise storage system
+mass storage device
+mass storage
+rewritable disc
+write-once disc
+read-only disc
+Blu-ray discs
+zettabyte
+ZIP
+Zen Cart
+Y!
+yottabyte
+YouTube
+Xenu
+XHTML
+XUL
+XSLT
+XQuery
+W3C
+file not found
+device not ready
+access denied
+error message
+naming convention
+black box
+ghost button
+regular expression
+blank line
+numerical value
+callee
+caller
+memory address
+control flow
+control variable
+web scraping
+linear search
+license
+Kangaroo code
+Kerning
+Kludge
+Jerry-rig
+joomla
+ICO format
+Image map
+Information website
+Internet marketing
+interpreter
+Interation
+initialization
+Indirection
+Implicit
+Implicit Parameter
+IMG
+Intranet portal
+iOS
+Homepage
+PageRank
+Pageview
+PayPal
+dynamic link
+permalink
+Permission marketing
+PPC
+Pre-designed logo
+Privacy policy
+Project Manager
+Prefix Increment
+Prefix Decrement
+Possitive number
+Principle
+Pagejacking
+Paid listings
+Public domain
+Pascal
+proxy server
+POP
+Perl
+Parallax scrolling
+SVN
+schema
+SHA-2
+screen lock
+spelling correction
+Snipping Tool
+SQL Server
+SQL injection
+ReactJS
+Automated Regression Testing
+regression testing
+robot.txt
+QR Code
+PSD
+device platform
+Objective-C
+ODBC
+Nginx
+NLP
+Binary Digit
+hdse
+BPS
+Binary Term
+body copy
+Brand
+Brand elements
+Brand mark
+Brand Platform
+Above the Fold
+Accessibility
+Abbreviation element
+Alt attribute
+Alt tag
+Anti-aliasing
+ARPANet
+ASP
+Affiliate program
+Associate program
+ADN
+Anonymous FTP
+Applet
+WAMP
+Wayback Machine
+web browser
+web form
+web host
+website template
+white hat
+Wordpress
+web hosting service
+web typography
+web banner
+WAN
+WAP
+World Wide Web
+web page
+vanilla
+vector graphics
+viral marketing
+visitor
+visit duration
+Vortal
+VPN
+Host
+HTML code
+Hierarchy
+HTML5
+HTML Editor
+Gantt chart
+Ghost site
+Graphics
+Guestbook
+Greater Than
+Greater Than or Equal To
+Greedy algorithm
+Google adwords
+FAQ
+Farm out
+First to market
+Flash
+form validation
+FBKS
+Fixed with
+Floating-point
+Frame
+external keyboard
+ergonomic keyboard
+ergonomics
+robot
+throw an exception
+thread starvation
+thread
+sub class
+stack overflow
+server-side programing language
+scheduler
+priority level
+primitive type
+parsing
+parallel programming
+package declaration
+native method
+method overloading
+method body
+Paid inclusion
+PDF
+Phpdesigner
+Online shopping
+Opera
+Optimize'
+One-dimensional Array
+Octal
+on-the-fly
+Online advertising
+Nav bar
+Netscape Navigator
+Negative number
+Named anchor
+Netiquette
+Not found
+Nofollow
+module
+Mbps
+Microsoft Outlook
+mockup
+landing page
+lifetime commission
+Lync Online
+Kbps
+JRE
+JDK
+Impressions
+international roaming
+Information Security Audit
+IT
+hacking
+Golang
+Google Cloud Platform
+Gbps
+Gzip
+GIF
+FLOPS
+file system
+Application server
+assign
+allocate memory
+assigment
+Addition
+Addition assigment
+Array subscript
+Activemovie
+ActiveX
+ActiveX Data Object
+ADSL
+amaya
+Anti-Virus program
+archie
+ASF
+ASX
+AVI
+A/B Testing
+adapter card
+affiliates
+ARP cache
+ARP protocol
+vBulletin
+Visual Basic
+under construction
+user agent
+user-generated content
+USP
+unary plus
+unary minus
+unique user
+usability
+user-centered design
+usage statistics
+text link
+thumbnail
+traffic
+Adaptive Bilevel Image Compression
+AAS
+AAA
+AA
+abend code
+abend abnormal end of task
+abbreviated installation
+abbreviated combined relation condition
+abbreviation
+ablation
+abbreviated address calling
+abbreviated addressing
+abandon
+abacus
+XML
+Xcode
+Wi-Fi
+while loop
+version control
+variable type
+Font
+Evelator pitch
+Entry page
+Eye candy
+Eye tracking
+Web server error
+Email link
+Disk Space
+dedicated server
+Dithering
+Domain extension
+Domaining
+Dreamweaver
+deep linking
+Deallocate
+dynamic memory
+Division assignment
+Derived class
+Drupal
+Dial-up connection
+CHMOD
+CAPTCHA
+loop variable
+Java Lambda Expression Syntax
+lambda expression
+Java Virtual Machine
+Java Bytecode
+Java Archive file
+imperative programming
+immutable object
+executable
+exclusive-or operator
+exception handler
+deadlock2
+datagram
+daemon thread
+class header
+class body
+boundary error
+Bootstrap classes
+boolean expression
+block
+behavior
+abstract method
+font awesome
+DevOps culture
+DevOps tool
+game tree
+test report
+test case
+Automation Test
+software development process
+QA
+Tester
+microservices
+waterfall model
+software development
+Software Development Life Cycle
+centi
+CakePHP
+C#
+CPC
+CPM
+conversion rate
+atto
+Photoshop
+IP spoofing
+switch
+Wi-Fi hotspot
+man-in-the-browser attack
+endpoint authentication
+access point
+wireless access point
+eavesdropping
+computer fraud
+charge card number
+attacker
+party
+cyberattack
+pit
+land
+USB flash drive
+flash memory card
+file
+solid-state drive
+decompression
+file compression
+RAID
+full duplex
+photo
+DOS
+DDoS
+botnet
+trojan
+worm
+vishing
+phising
+zombie
+cursor
+storage device
+insertion point
+autofill
+search box
+zoom
+hash function
+md5
+footer
+shorten link
+event
+else statement
+DRY
+drop
+drag
+double-click
+django
+digital footprint
+deployment
+decompose
+debugging
+data structure
+data science
+cybersecurity
+crowdsourcing
+conditional statement
+computer program
+command-line Interface
+command line
+coding language
+username
+User Interface Design
+User Experience Design
+Usability Testing
+training
+token
+terminal
+TensorFlow
+Teaching Language
+Synchronous Learning
+SQL
+sprite
+sprint
+source data
+source code
+server-side
+script
+Scratch
+SASS
+runtime
+run program
+Ruby on Rails
+CGI
+Clutter
+Coder
+Compile error
+Casting Syntax
+CDN
+CDF
+CDATA
+Continuous media
+Client�server model
+Contextual Selector
+Control Structures
+Banner blindness
+Bells and whistles
+Beta test
+Black hat
+Bot
+Broken link
+abstract class
+Cartesian co-ordinates
+textual user interface
+invalid test data
+valid test data
+test data
+test plan
+watcher
+single step
+debugger
+breakpoint
+trace table
+syntax error
+runtime error
+logic error
+logical operator
+relational operator
+modulus
+integer division
+mathematical operator
+library subprogram
+built-in subprogram
+AWS
+download
+DRAM
+data center
+DaaS
+DevOps
+design pattern
+csv file
+CPU Cooler
+chatbot
+chipset
+bing
+breadcrumb
+brute force attack
+banner
+Affiliate Marketing
+log file
+access log
+log
+memory cache
+cache
+disk caching
+Zend Framework
+Visual Studio
+VPS
+UNIX
+ubuntu
+UAT
+URL scheme
+Terabyte
+NER
+POS
+Tokenizer
+Telnet
+trigger
+text similarity
+SaaS
+expansion bus
+system bus
+bus width
+SD card
+wireless network card
+NIC
+graphics card
+Apple
+AND gate
+Analytical engine
+Annalogue
+ANSI
+aliasing
+Algol
+AI
+Address bus
+ADC
+Ada
+Acrobat
+Accustic coupler
+Defence In Depth
+Least Privilege
+Non-repudiation
+Availability
+Integrity
+Confidentiality
+insider
+?-? pruning
+Minimax Algorithm
+board game
+Hill climbing
+A* search algorithm
+evaluation function
+greedy best-first search
+best-first search
+Heuristic
+Uniform-cost search
+iterative deepening depthfirst search
+depth-limited search
+depth-first search
+copyleft
+dag
+press
+tap
+point
+diffusion
+entropy
+lazy loading
+JSON
+checksum
+voice recognition system
+audio-input device
+webcam
+digital camera
+image capturing device
+Optical-mark recognition
+Optical-character recognition
+RFID tag
+RFID reader
+MaxiCode
+UPC
+bar code reader
+coding challenge
+code review
+code
+class
+char
+Camel case
+C++
+bug
+Bootstrap
+boolean
+blockly
+Block-based Programming Language
+bit
+binary alphabet
+Backbone.js
+autonomous
+Asynchronous Programming Language
+Ruby
+REST
+repeat
+React Native
+React
+R
+Python
+Project-based Learning
+programming language
+programming
+program
+Postgresql
+persistence
+pattern matching
+Pair Programming
+packet
+OS
+open-source software
+ORDBMS
+Null
+Node.js
+return value
+subprogram
+structural component
+indentation
+command sequence
+type declaration
+integer
+float
+program code
+Structured English
+pseudocode
+flowchart
+WYSIWYG
+wireframe
+slider
+sitemap
+responsive web design
+registrar
+plugin
+OOTB
+firewall
+CTA
+external hard drive
+internal hard disk
+head crash
+platter
+track
+cylinder
+density
+access speed
+capacity
+media
+carpal tunnel syndrome
+repetitive strain injury
+laptop keyboard
+traditional keyboard
+tablet hunch
+Accumulator
+access time
+Accelerator borad
+Expansion card
+expansion slot
+rail fence
+Vigen�re
+Hill
+Playfair
+brute-force
+Ceasar
+stream cipher
+block cipher
+transposition
+substitution
+Cryptography
+Cryptanalysis
+Cryptosystem
+Decryption
+replay
+Key Distribution Center
+connectivity
+virtual keyboard
+modem
+communication device
+communication
+BD
+DVD
+compact discs
+optical disc
+solid-state storage
+hard disk
+secondary storage
+output device
+input device
+RAM
+memory
+CPU
+breath-first search
+informed/ heuristic search
+uninformed/blind search
+Solution path
+Goal state
+Tic-tac-toe
+8-Puzzle
+machine translation
+text to speech
+Voice Search
+Speech Technologies
+artificial intelligence
+Perception
+Autonomous Planning & Scheduling
+Pedestrian detection
+Autonomous vehicle control
+BIOS
+Flash memory
+ROM
+virtual memory
+DIMM
+graphics processing unit
+chip card
+magnetic card reader
+card reader
+memory card reader
+3D scanner
+handheld scanner
+document scanner
+flatbed scanner
+optical scanner
+scanning device
+Handwriting recognition software
+stylus
+motion-sensing device
+gaming mice
+joystick
+game controller
+multitouch screen
+touch screen
+touchpad
+wireless mouse
+optical mouse
+assignment operator
+arithmetic operator
+pprenticeship
+AngularJS
+ajax
+agile software development
+active record
+drone
+VR controller
+VR head-mounted display
+VR
+multifunctional device
+headset
+audio output device
+plotter
+thermal printer
+cloud printer
+3D printer
+Shared laser printer
+personal laser printer
+laser printer
+Neural Network
+MySQL
+MVC
+MongoDB
+Micro:bit
+MEAN Stack
+markup language
+main function
+machine learning
+machine language
+Low-level language
+loop
+local environment
+linux
+linter
+LAMP Stack
+jQuery
+JavaScript Framework
+Java
+IP address
+Swift
+IntelliJ
+CRM
+crawl
+conversion
+ABC
+abort
+abnormal end of task
+abnormal end
+ABME
+ABM
+ABL
+ABIST
+ABI
+aberration
+abend
+ABCA
+AutoCorrect
+Grammar Checker
+Alignment
+Spell checker
+contextual tab
+Ribbon
+Dialog box
+Toolbar
+menu bar
+Menu
+window
+icon
+GUI
+UI
+wireless modem
+page
+message
+header
+Spider
+challenge-response
+KERBEROS
+Something you are
+(Something you have
+Something you know
+smart card
+Digital certificate
+Digital identity
+Computer identity
+fingerprint
+hand geometry
+iris scanners
+Facial recognition
+biometric identity
+Timing channel
+Storage channel
+Covert Channels
+Flow control
+Information flow
+Inference attack
+Inference control
+system unit
+wearable
+smartphone
+tablet
+laptop
+desktop
+personal computer
+midrange computer
+mainframe computer
+supercomputer
+instruction
+configuration
+scan
+prompt
+subscription
+uninstall
+presentation software
+database management system
+spreadsheet
+word processor
+app
+parallel processing
+multicore processor
+clock speed
+word
+Logical operation
+arithmetic operation
+Arithmetic-logic unit
+control unit
+bus line
+slot
+chip carrier
+Chip
+CPU socket
+Motherboard
+Activity tracker
+Smartwatch
+Augmented reality
+Casual game
+game console
+Mini tablet
+Ultrabook
+wheel button
+Pointing Device
+Thumb keyboard
+combination keys
+toggle keys
+Windows key
+arrow keys
+numeric keypad
+function keys
+QWERTY
+keyboard entry
+computer mouse
+input
+tower unit
+Unicode
+EBCDIC
+ASCII
+hex
+byte
+wireless charging platform
+AC adapter
+power supply unit
+inkjet printer
+duplex printing
+grayscale
+dpi
+printer
+digital projector
+ultra-high-definition television
+interactive whiteboard
+e-ink
+e-book
+e-book reader
+OLED display
+LED display
+LCD
+flat-panel monitor
+aspect ratio
+active display area
+contrast ratio
+dot pitch
+resolution
+clarity
+if statement
+IDE
+HTTP request
+high-level language
+hardcode
+HAML
+Github
+Git
+function definition
+function call
+Full Stack Developer
+for loop
+Flask
+Express.js
+event handler
+information system
+computer science
+backup
+Digital cash
+Computer security
+B2B
+C2C
+B2C
+e-commerce
+Specialized search engine
+Search engine
+IM
+MMS
+Text messaging
+spam filter
+spam
+Webmail
+e-mail client
+Web-based e-mail system
+Client-based e-mail system
+attachment
+Mandatory Access Control
+Discretionary Access Control
+Open system
+closed system
+Authorization
+Access control
+Social Engineering
+Cover his track
+Maintaining access
+Gaining access
+Scanning
+Reconnaisance
+inner attackers
+Denial-of-Service Attacks
+malicious code
+Malicious Hackers
+Fraud and Thef
+Errors and Omissions
+security threat
+security mechanism
+security policy
+Information Systems Security
+reside
+signture
+component
+reserved word
+identifier
+letter
+name of sth
+match
+anonymous object
+general
+differentiate
+invoke
+allocate
+undetermined
+global namespace
+problem
+mechanism
+in general
+share
+device
+flexible
+encryption
+execution
+secure
+whereas
+web application
+general-purpose programming language
+static website
+earlier
+better
+previous
+source
+a wide range of sth
+Apache
+reliable
+dynamic
+receive
+backend
+result
+specialized applications
+general-purpose applications
+application software
+system software
+wireless network
+low battery
+career
+privacy
+cloud storage
+antivirus program
+word processing program
+document
+minimize
+people
+internet
+hardware
+information
+offload
+For more information
+copyright
+basis
+goal
+Gaming laptop
+Two-in-one laptop
+all-in-one
+gesture control
+Disk Cleanup
+File History
+Virtual assistant
+File compression program
+Backup program
+Diagnostic program
+guest operating system
+host operating system
+virtual machine
+virtualization
+network server
+cold boot
+warm boot
+Boot
+background
+foreground
+FireWire port
+DVI port
+VGA port
+Mini DisplayPort port
+MIDI port
+eSATA port
+Thunderbolt port
+HDMI port
+USB-B
+USB-A
+Ethernet port
+USB port
+PCI Express
+FireWire
+USB
+output
+code point
+analog monitor
+SEO
+landscape mode
+landscape
+JPEG
+self-closing tag
+infinite loop
+bottleneck
+valid
+hover
+utf-8
+favicon
+system
+permission
+man-in-the-middle attack
+chart
+power
+compatible
+spyware
+signature
+Subject
+wiki
+Podcast
+Webcast
+tweet
+microblog
+blogger
+Blog
+News feed
+Group
+Profile
+FTP
+BitTorrent
+file transfer utility software
+Internet security suite
+Filter
+Web Utilities
+Pinch
+mobile browser
+mobile device
+PHP
+DES
+public key cryptosystem
+symmetric key cryptosystem
+decoding
+encoding
+coding
+Ciphertext
+Encryption method
+plaintext
+intranet
+Fire Walls
+Physical protect
+Data Encryption
+Access Rights
+Weakest Link
+Choke Point
+perform
+reference variable
+function overloading
+access modifier
+procedural
+history
+OOP
+founder
+laboratory
+brief
+compilation
+dynamic memory allocation
+structured programming
+assembly language
+rich
+in the sense that
+site
+located inside sth
+double click
+is said to be
+blueprint
+static
+constructor
+defense in depth
+protected
+private
+public
+solve
+world
+real-life
+acquire
+corresponding
+application
+byte code
+superglobal
+case
+question mark
+specifically
+acronym
+supply
+one-way encryption
+personally
+registered
+computer
+native
+be over (sb/sth)
+as the name suggests
+hostname
+establish
+global
+interaction
+adhere to sth
+accomplish
+custom
+syntax completion
+autocomplete
+production server
+when the time comes
+do the job
+preface
+New to
+information technology
+dedication
+marketing manager
+ISSN
+ISBN
+cover image
+publication
+credit
+printed in
+all rights reserved
+university
+PhD
+microsoft office
+edition
+computing
+software
+end user
+procedures
+be interested in sth
+hesitate
+multitasking
+driver
+bitmap
+Web authoring
+software suite
+app store
+RPG
+Web authoring software
+Video editor
+vector image
+Illustration program
+Image editor
+Desktop publishing program
+Table
+Primary Key
+DBMS
+Workbook
+JavaScript
+CSS
+HTML
+TLD
+domain
+protocol
+address
+pop-up
+setting
+bookmark
+browser
+ISP
+feed
+e-learning
+multimedia
+online
+satellite
+cable
+wire
+keyboard
+network
+drive
+compiler
+entry point
+standard
+compile
+shortcut
+console
+operating system
+literal
+white space
+invalid
+digit
+alphabet
+rule
+while
+example of sth
+through
+reserved
+multiplicative operator
+species
+operation
+ternary operator
+trait
+line number
+current
+magic constants
+dollar sign
+accessible
+as shown
+convention
+redefined
+remain
+substring
+total
+present
+replace
+reverse
+escape sequence
+extend to sth
+double-quote string
+single-quote string
+stream of sth
+expiration
+response
+client
+cookie
+fatal
+reusability
+send
+data
+amount of sth
+visible
+superglobals
+horizontal tab
+enclose
+way
+be similar to sth
+describe
+precedence
+operand
+keyword
+properly
+installer
+what the heck
+time
+get a (good/solid/sound/etc.) grasp (of/on sth)
+not necessary
+run on sth
+mature
+curve
+extensively
+inbuilt
+industrial-strength
+frankly speaking
+over
+access
+machine
+process
+platform
+connect
+officially
+virtual function
+step-by-step
+community
+scalable
+one of sth
+beginner-friendly
+resize
+delete
+collect
+serve
+hence
+content management system
+social network
+fast
+statically typed language
+symbol table
+it is advisable to sth
+identification
+by convention
+network operating system
+standalone operating systems
+Embedded Operating System
+utility
+network administrator
+technical writer
+computer technician
+technician
+software engineer
+webmaster
+IoT
+wireless
+cloud computing
+web server
+web stack
+hosting
+web
+CSS selector
+between
+check
+external link
+internal link
+absolute URL
+rule of thumb
+port
+translate sth to sth
+as follows
+identify
+tab
+point to sth
+anchor link
+hyperlink
+row
+individual
+set up
+essential
+assure sb (that)
+knowledge
+professional
+respect
+tendency
+hard
+mess
+start over
+to be too lazy to do sth
+rarely
+original
+reason
+challenging
+conservative
+past
+maintainer
+innovation
+virtue
+maintenance
+technique
+classic
+behind the scenes
+explicitly
+series of sth
+consider
+either sth or sth
+conditional
+single quote
+lie
+whole number
+help of sth
+instead of
+expression
+end of sth
+more or less
+it is the characteristic of sth
+outside
+global variable
+local variable
+treat
+conventionally
+follow
+constant
+loosely typed language
+symbol
+underscore
+string
+sign
+variable
+below
+argument
+print
+parenthesis
+stack
+execute
+compatible with sth
+object-oriented
+transfer
+skip
+flow
+body
+infinite
+inner loop
+iterate
+one by one
+contiguous
+actual argument
+reflect
+tail recursion
+recursion
+user-defined function
+modularity
+subroutine
+data abstraction
+readability
+parameter
+derived
+template
+group into sth
+tend to
+outer
+HTML document
+start
+number
+be meant for
+"that is,"
+entity reference
+primarily
+physical tag
+logical tag
+descendant
+more than
+excluding
+navigation
+related
+self-contained
+counterpart
+preserve
+instruct
+pointer
+line by line
+multidimensional array
+intersection
+sort
+count
+split
+create
+With the help of sth
+associate
+PHP Associative Array
+PHP Indexed Array
+array
+binary
+decimal
+square root
+fraction
+predefined
+reversed
+length
+convert sth into sth
+recursive function
+alphanumeric
+descriptive
+keep in mind
+assignment statement
+container
+later
+carriage return
+curly braces
+multiple line comment
+single line comment
+readable
+period of time
+without regard to
+short HTML tags
+ASP style tags
+in front of sth
+Canonical PHP Tags
+Escaping To PHP
+basically
+local
+environment
+sth to be (not) suitable for sth
+margin collapsing
+positioned element
+absolutely positioned element
+idea
+even if
+be dependend on sth
+permit
+measurement
+main
+at the same time
+unit
+pixel
+fallback
+dot
+comma
+pattern
+encounter
+leave
+directly
+scripting language
+dynamic website
+save
+topic
+faster than sth
+interpreted language
+cover
+easily
+deep knowledge
+hide
+mouse pointer
+side
+horizontally
+edge
+scroll
+take out from sth
+such noun
+according to
+with respect to
+from sth to sth
+alter
+member
+instance
+encapsulation
+abstraction
+function overriding
+polymorphism
+inheritance
+collection
+methodology
+paradigm
+major
+secured
+exception
+namespace
+procedure
+operator overloading
+in brief
+force
+rectangular
+width
+temporarily
+self-explanatory
+extremely
+extent of sth
+child
+sequence
+collectively
+recommend
+consistent
+achieve
+container element
+in between
+additional
+enclosed
+tool
+mandatory
+under
+made up of sth
+variable-length argument
+concatenate
+call by reference
+call by value
+break
+guarantee
+another
+inside
+iteration
+traverse
+statement
+destroy
+associative array
+resume
+recognize
+cart
+threat
+characteristics
+horizontal
+arbitrary
+generic
+quote
+contain
+preformat
+in theory
+serves as sth
+bold
+heading
+rank
+start with
+comment
+such as
+line
+paragraph
+wrap
+occupy
+act as sth
+external
+have
+inherit
+loads of sth
+as if
+virtually
+load
+at least
+cause
+choose
+pass
+interface
+desired
+put sth into sth
+in the middle of sth
+at a time
+should
+indented
+preselect
+value
+colour
+indent
+multiple of number
+minus
+exclude
+area
+transparent
+kind of
+so as to
+important
+transparent color
+percentage
+meet
+regardless of sth
+screen
+double quote
+let sb do sth
+prefix
+pseudo-element
+anchor
+pseudo-class
+divide
+destination
+list
+unordered list
+ordered list
+explanation
+associated
+retrieve
+web surfing
+try it out
+italic
+level
+frequently
+mark
+standalone element
+title bar
+encode
+character encoding
+respectively
+of
+a pair of sth
+presentation
+go a long way
+available
+CSS reset
+own
+location
+entire
+external style sheet
+followed by sth
+unique
+denote
+allow sb to do sth
+class selector
+type selector
+numerous
+within
+curly bracket
+target
+title
+nest
+to fall within sth
+known as
+multiple
+asterisk
+character
+scroll bar
+line break
+initial
+set sth to sth
+submit button
+accept
+specify
+majority of sth
+behave
+purpose
+form control
+POST method
+GET method
+method
+server
+migrate
+indication
+bandwidth
+equivalent
+across
+break into sth
+back and forth
+activate
+unzip
+It�s (very) hard/easy to (for sb) to do sth
+log in
+incorrect
+redirect
+have a (good/solid/sound/etc) grasp of/on sth
+credential
+generate
+enter
+inform
+This/It means (that)
+order
+given sth
+a combination of sth
+CSS ID selector
+particular
+CSS Specificity
+near
+arise
+ancestor
+affect
+priority
+directive
+preferred
+advantage
+list of sth
+ensure
+internal style
+inline CSS
+closing brace
+express in sth
+solely
+enrich
+maintain
+publish
+algorithm
+human-readable
+assign sth to sth
+partition
+built-in
+complex
+free
+thoroughly
+effect
+introduction to sth
+take part in
+out of sth
+collapse
+at the beginning of sth
+require
+plain text
+opening tag
+tag
+surround
+object
+to begin with
+strange
+dive in/dive into sth
+appearance
+vice versa
+the differences between
+dominant
+navigate
+state
+CSS component
+apply
+come with sth
+turn out
+as a rule
+signify
+span
+caption
+control
+layout
+outdated
+grow
+take up
+advise against doing sth
+tabular
+description list
+unless
+relevant
+normal flow
+border
+manipulate
+alternative
+handle
+PNG
+end
+ignore
+place
+user experience
+nowadays
+CORS
+200
+404
+API endpoint
+communicate
+independently
+aka
+API
+totally
+widely-used
+extension
+well-supported
+dummy
+concept
+command
+manually
+implement
+content
+authentication
+CSS rule
+embed
+compress
+in terms of sth
+DNS
+automatically
+be it
+say
+sensitive
+transport
+address bar
+URL
+be likely to verb
+malicious
+defense
+malware
+fine-tuning
+trust
+incognito
+identical
+session
+taste
+advertising
+remind
+entitie
+markup
+relative
+absolute
+directory
+link to sth/sb
+lower case
+quotes
+space
+by far
+fixed
+insert
+text
+use for sth
+at the top of sth
+at the bottom of sth
+emphasize
+as long as
+fragment
+documentation
+framework
+integrate
+simple
+clone
+push
+untracked
+hidden
+status
+initialize
+install
+collaborate
+roll back
+prefer
+beginner
+discussion
+include
+recipe
+best practice
+task
+cookbook
+post
+technically
+these days
+to get sth done
+reuse
+repetitive
+expert
+enroll
+spend
+journey
+come
+animation
+padding
+round
+analogy
+functionality
+make
+short for
+involve
+fall
+API call
+a piece of sth
+unusual
+check for sth
+literally
+work across sth
+view
+plug-in
+deliver
+feature
+up to date
+vulnerability
+vulnerable (to sb/sth)
+real-time
+fill out
+support
+go beyond sth
+lay out
+web-based
+validate
+validation
+especially
+in detail
+terminate
+attribute
+change
+browser's title bar
+give
+closing tag
+structure
+busy
+left angle bracket
+close
+represent
+call
+refresh
+undock
+dock
+via
+chrome dev tools
+front end
+roadmap
+web developer
+define
+check out sth
+get started
+basic
+inspect
+visit
+under the hood
+key
+along with sb/sth
+out there
+starter
+take
+upload
+new
+version
+head over to
+explore
+fundamental
+from scratch
+open up sth
+construct
+in a nutshell
+render
+fetch
+resource
+DOM
+service
+exchange
+in simple terms
+launch
+term
+type
+wonder
+need
+in this space
+collaboratively
+assume
+build
+serie
+set of sth
+spec
+confusion
+that's it
+element
+specific
+declare
+declaration
+property
+website
+part
+center
+recap
+what about
+same
+size
+value of sth
+move
+straightforward
+It is important to  do sth
+handy
+clear
+one
+return
+selected
+impact
+existing
+omit
+modify
+non-empty
+It is (im)possible (for sb) to do sth
+test
+creation
+to be different from something
+optional
+field
+default
+result-set
+display
+condition
+combine
+RDBMS
+operator
+backtick
+single quotes
+fulfil
+syntax
+store
+index
+extract
+at
+separate
+semicolon
+uppercase
+case-sensitive
